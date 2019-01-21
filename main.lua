@@ -19,7 +19,7 @@ function love.load()
 	areaPelea.largo = 0
 	areaPelea.alto = 0
 
-	enemigos = {} --los enemigos se trabajara con una lista para mostrarlos y cuando derrete a algunos se deraran de ver
+	enemigos = {} --los enemigos se trabajara con una lista para mostrarlos y cuando derrote a algunos se dejaran de ver
 
 	vidaJugador = {}
 	vidaJugador.salud = 100
